@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.3.0.QEECNXM/miui_MIMIX3_V11.0.3.0.QEECNXM_4d73488207_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://us-dl.mokeedev.com/firmware/TUs5MC4wLWphc29uLTIwMDcyMC1SRUxFQVNFLnppcHxmaXJtd2FyZXwxNTk4MzU2MTU5/MK90.0-jason-200720-RELEASE.zip
+  ROM_NAME: test1(bug)MOKEE
   TZ: Asia/Shanghai
 
 jobs:
