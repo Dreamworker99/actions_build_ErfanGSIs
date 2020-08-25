@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL:https://mirrors.tuna.tsinghua.edu.cn/lineage-rom/full/jason/20200812/lineage-17.1-20200812-nightly-jason-signed.zip
-  ROM_NAME: test1(bug)Lineage
+  ROM_URL: https://mirrors.tuna.tsinghua.edu.cn/lineage-rom/full/jason/20200812/lineage-17.1-20200812-nightly-jason-signed.zip
+  ROM_NAME: bugLineage
   TZ: Asia/Shanghai
 
 jobs:
